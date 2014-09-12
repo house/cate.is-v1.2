@@ -1,0 +1,279 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"su",
+				"super"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"colu",
+				"column_left"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"ali",
+				"vertical-align"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"backgru",
+				"background-color"
+			],
+			[
+				"background",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 475.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/zhangc/Projects/cate.is-v1.1/source/assets/css/cate.css",
+		"/Users/zhangc/Projects/cate.is-v1.1/source/index.html.haml",
+		"/Users/zhangc/Projects/cate.is-v1.1/source/about.html.haml",
+		"/Users/zhangc/Projects/cate.is-v1.1/build/index.html",
+		"/Users/zhangc/Projects/cate.is-v1.1/source/layouts/layout.erb",
+		"/Users/zhangc/Projects/cate.is-v1.1/source/partials/header.html.erb",
+		"/Users/zhangc/Projects/cate.is-v1.1/Rakefile",
+		"/Users/zhangc/Projects/cate.is/source/blog/2014-08-17-curate-it-explorations.html.markdown",
+		"/Users/zhangc/Projects/cate.is/source/partials/footer.html.erb",
+		"/Users/zhangc/Projects/cate.is/source/blog/2014-08-14-typography.html.markdown",
+		"/Users/zhangc/Projects/cate.is/source/blog/2014-08-14-curate-it.html.markdown",
+		"/Users/zhangc/Projects/cate.is/source/blog/2014-08-16-editorial.html.markdown",
+		"/Users/zhangc/Projects/cate.is/config.rb",
+		"/Users/zhangc/Projects/cate.is/source/index.html.haml",
+		"/Users/zhangc/Projects/cate.is/source/blog/draft-to-the-north.html.markdown",
+		"/Users/zhangc/Projects/cate.is/source/blog/2014-08-14-write-better.html.markdown",
+		"/Users/zhangc/Projects/cate.is/source/assets/css/vendor/normalize.css",
+		"/Users/zhangc/Projects/cate.is/source/assets/css/cate.scss",
+		"/Users/zhangc/Projects/cate.is/source/blog/2014-08-19-printed.html.markdown",
+		"/Users/zhangc/Projects/martin/index.html",
+		"/Users/zhangc/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/zhangc/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/zhangc/Projects/cate.is/source/partials/nav.html.erb",
+		"/Users/zhangc/Projects/cate.is/source/blog/draft-resources.html.markdown",
+		"/Users/zhangc/Projects/cate.is/source/blog/2014-07-24-to-the-north.html.markdown",
+		"/Users/zhangc/Projects/cate.is/source/layout.erb",
+		"/Users/zhangc/Projects/cate.is/source/tag.html.erb",
+		"/Users/zhangc/Projects/jina.me/source/speaking.html.haml",
+		"/Users/zhangc/Projects/jina.me/.gitignore",
+		"/Users/zhangc/Projects/cate.is/source/typography.html.erb",
+		"/Users/zhangc/Projects/cate.is/source/write-better.html.erb",
+		"/Users/zhangc/Projects/cate.is/source/curate-it.html.erb",
+		"/Users/zhangc/Projects/cate.is/source/index.html.erb",
+		"/Users/zhangc/Projects/cate.is/source/printed-magazines.html",
+		"/Users/zhangc/Projects/cate.is/source/styleguide.html.erb",
+		"/Users/zhangc/Projects/cate.is/source/partials/about.html.erb",
+		"/Users/zhangc/Projects/cate.is/source/partials/header.html.erb",
+		"/Users/zhangc/Projects/Framer/test.framer/framer/framer.js",
+		"/Users/zhangc/Projects/cate.is/source/assets/css/vendor/social-icon-font.css",
+		"/Users/zhangc/Projects/cate.is/source/projects.html.erb",
+		"/Users/zhangc/Projects/cate.is/source/blog/2014-08-04-test.html.markdown",
+		"/Users/zhangc/Projects/cate.is/source/blog.html.erb",
+		"/Users/zhangc/Projects/cate.is/source/blog/2014-07-28-test.html.markdown",
+		"/Users/zhangc/Projects/cate.is/source/about.html.erb",
+		"/Users/zhangc/Projects/cate.is/data/books.yml",
+		"/Users/zhangc/Projects/cate.is/source/feed.xml.builder",
+		"/Users/zhangc/Projects/cate.is/source/assets/css/partials/_base.scss",
+		"/Users/zhangc/Projects/cate.is/source/assets/css/all.scss",
+		"/Users/zhangc/cate.is/source/assets /css/cate.scss",
+		"/Users/zhangc/cate.is/source/posts/2014-07-24-to-the-north.html.markdown",
+		"/Users/zhangc/cate.is/build/index.html",
+		"/Users/zhangc/Projects/cate.is/README.md",
+		"/Users/zhangc/Projects/cate.is/Gemfile",
+		"/Users/zhangc/Projects/cate.is/Rakefile",
+		"/Users/zhangc/Projects/cate.is/source/2014-07-24-to-the-north.html.markdown",
+		"/Users/zhangc/Projects/cate.is/source/layouts/article_layout.erb",
+		"/Users/zhangc/Dropbox/Projects/Cate.is/middleman-blog/Gemfile",
+		"/Users/zhangc/Dropbox/Projects/Cate.is/middleman-blog/config.rb",
+		"/Users/zhangc/Dropbox/Projects/Cate.is/middleman-blog/Gemfile.lock",
+		"/Users/zhangc/Dropbox/Projects/Cate.is/cate.is - dev/templates/base.html",
+		"/Users/zhangc/Dropbox/Projects/Cate.is/cate.is - dev/pages/index.html",
+		"/Users/zhangc/Dropbox/Projects/Cate.is/cate.is - dev/static/css/style.css",
+		"/Users/zhangc/Dropbox/Projects/cate.is/cate.is - dev/templates/base.html",
+		"/Users/zhangc/Dropbox/Projects/cate.is/blog.cate.is/pages/posts/norway_draft.html",
+		"/Users/zhangc/Dropbox/Projects/cate.is/blog.cate.is/pages/posts/oslo.html",
+		"/Users/zhangc/Dropbox/Projects/cate.is/blog.cate.is/pages/posts/norway.html",
+		"/Users/zhangc/Dropbox/Projects/cate.is/cate.is - dev/static/css/style.css",
+		"/Users/zhangc/Dropbox/Projects/cate.is/cate.is - dev/pages/index.html",
+		"/Users/zhangc/Dropbox/Projects/cate.is/blog.cate.is/pages/posts/start.html",
+		"/Users/zhangc/Dropbox/Projects/cate.is/blog.cate.is/pages/posts/back-to-basics.html",
+		"/Users/zhangc/Dropbox/Projects/cate.is/blog.cate.is/pages/posts/my-camera-experience.html",
+		"/Users/zhangc/Desktop/01 my camera expereince.md",
+		"/Users/zhangc/Dropbox/Projects/cate.is/blog.cate.is/pages/posts/intro.html",
+		"/Users/zhangc/Dropbox/Projects/cate.is/blog.cate.is/pages/posts/apartment-improvement",
+		"/Users/zhangc/Dropbox/Projects/cate.is/blog.cate.is/pages/posts/rangefinder.html"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"IHere",
+			"about",
+			"Light",
+			"number"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/zhangc/Projects/jina.me/jina.me.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 171.0,
+	"status_bar_visible": true
+}

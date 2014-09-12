@@ -1,0 +1,169 @@
+/*--------------------------------
+  Typography
+--------------------------------*/
+
+body              { font: 300 18px/1.63em 'Mercury SSm A', 'Mercury SSm B', Georgia, Serif; color: #504848; }
+a                 { text-decoration: none; color: inherit; border-bottom: 1px solid #ddd; }
+a:hover           { border-bottom: 1px solid #222; }
+em                { font-style: italic; }
+strong            { font-weight: 700; }
+h1, h2, h3,
+h4, h5, h6        { font-family: 'Mercury Display A', 'Mercury Display B'; font-weight: 700; color: #222; margin: 1em 0;}
+h1                { font-size: 2em; line-height: 1.33em; color: #ee6557;}
+h2                { font-size: 1.25em; line-height: 1.5em; font-weight: 400; color: #504848;}
+h3                { font-size: 1.15em; }
+h4                { font-size: 1em; }
+h5                { font-size: 0.78em; }
+h6                { font-size: 0.67em; }
+h4, h5, h6        { text-transform: uppercase; }
+figcaption        { font-family: 'Whitney A', 'Whitney B'; line-height: 1.5em; }
+.dropcap          { width: 60px; height: 56px; text-align: center; font-size: 3.55em; margin-right: 0.1em;
+                    float: left; display:block; position: relative; top: 0.2em; color: #ee6557;}
+
+
+
+/*--------------------------------
+  Layout
+--------------------------------*/
+
+body {
+  background: #f8f8f5;
+  margin: 0;
+}
+
+img {
+  width: 100%; 
+}
+
+#wrapper {
+  max-width: 650px; 
+  margin: 0 auto;
+  padding: 60px 9%;
+  border-left: 1px solid #e9e9e9;
+  border-right: 1px solid #e9e9e9;
+  background: #fff;
+}
+
+header, article, footer, a {
+  transition: 0.2s;
+}
+
+header {
+  padding-bottom: 3em; 
+  border-bottom: 2px solid #f8f8f8;
+}
+
+header a {
+  border-bottom: 1px solid #fff; 
+}
+
+.byline {
+  float: left;
+}
+
+.byline a {
+  color: #888; 
+  text-align: center; 
+  font-size: 0.7em; 
+  text-transform: uppercase; 
+  letter-spacing: 0.1em;
+}
+
+.contacts {
+  float: right; 
+}
+
+.contacts a {
+  margin: 0 1em; 
+  color: #888; 
+  text-align: center;
+  font-size: 0.7em;
+  text-transform: uppercase; 
+  letter-spacing: 0.1em;
+}
+
+article {
+  padding: 5em 0 3em 0; 
+  border-bottom: 1px solid #e9e9e9;
+}
+
+figure {
+  margin: 2em 0;
+}
+
+figure img {
+   border: 1px solid #e9e9e9;
+}
+
+.no-border {
+  border: none; 
+}
+
+.left, .right {
+  display: block; 
+}
+
+.left {
+  width: 48%;
+  float: left; 
+}
+
+.right {
+  width: 48%;
+  float: right;
+}
+
+.right + p, .left + h3, .right + h3, .right + img  {
+  clear: both;
+}
+
+.float {
+  float: left;
+  width: 30%;
+  margin: 1.5em 2em 0 0;
+}
+
+
+figcaption {
+  font-family:'Whitney A', 'Whitney B';
+  padding-top: 0.5em; 
+}
+
+hr {
+  clear: both;
+  border: 0px;
+  height: 1px;
+  diplay: block;
+  width: 33%; 
+  background-color: rgb(232, 226, 232);
+  margin: 3em 0px 2em 0;
+}
+
+footer {
+  clear: both;
+  padding-top: 3em;
+  text-align: center;
+  font-size: 0.6em;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+
+@media screen and (max-width: 650px) {
+  body { font-size: 16px; background-color: #fff;}
+  #wrapper { margin: 0; padding: 0;}
+  .byline, .contacts { float: none; text-align: center; }
+  .byline a { font-size: 0.8em;}
+  .contacts a:first-child { margin-left: 0;}
+  header { padding: 2em; border: 0;}
+  article { border: none; }
+  article, footer { padding: 2em; }
+  iframe { width: 100%; height: 100%; }
+  .left, .right { width: 100%; float: none; }
+  .float { float: none; width: 100%; height: 100%; }
+}
+
+
+
+
+
