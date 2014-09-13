@@ -1,6 +1,17 @@
 ---
-layout: admin
+layout: "admin"
+my_list:
+  - one
+  - two
+  - three
 ---
+
+<h1>List</h1>
+<ol>
+  <% current_page.data.my_list.each do |f| %>
+  <li><%= f %></li>
+  <% end %>
+</ol>
 
 <h1>This is Admin Login</h1>
 <form>
@@ -8,3 +19,4 @@ layout: admin
   <input type="password">
   <input type="submit">
 </form>
+
