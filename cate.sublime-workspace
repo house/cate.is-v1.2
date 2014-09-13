@@ -67,6 +67,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "source/layouts/layout.erb",
+			"settings":
+			{
+				"buffer_size": 1056,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -96,6 +104,18 @@
 	},
 	"file_history":
 	[
+		"/Users/zhangc/Projects/cate.is-v1.2/source/partials/_footer.erb",
+		"/Users/zhangc/Projects/cate.is-v1.2/source/partials/_header.erb",
+		"/Users/zhangc/Projects/jina.me/source/layouts/layout.haml",
+		"/Users/zhangc/Projects/cate.is-v1.2/source/assets/css/vendor/normalize.css",
+		"/Users/zhangc/Projects/cate.is-v1.2/config.rb",
+		"/Users/zhangc/Projects/jina.me/Gemfile",
+		"/Users/zhangc/Projects/cate.is-v1.2/Gemfile",
+		"/Users/zhangc/Projects/cate.is-v1.2/source/CNAME",
+		"/Users/zhangc/Projects/cate.is-v1.2/README.md",
+		"/Users/zhangc/Projects/cate.is-v1.2/.gitignore",
+		"/Users/zhangc/Projects/cate.is-v1.2/LICENSE",
+		"/Users/zhangc/Projects/jina.me/.gitignore",
 		"/Users/zhangc/Projects/cate.is-v1.1/source/assets/css/cate.css",
 		"/Users/zhangc/Projects/cate.is-v1.1/source/index.html.haml",
 		"/Users/zhangc/Projects/cate.is-v1.1/source/about.html.haml",
@@ -124,7 +144,6 @@
 		"/Users/zhangc/Projects/cate.is/source/layout.erb",
 		"/Users/zhangc/Projects/cate.is/source/tag.html.erb",
 		"/Users/zhangc/Projects/jina.me/source/speaking.html.haml",
-		"/Users/zhangc/Projects/jina.me/.gitignore",
 		"/Users/zhangc/Projects/cate.is/source/typography.html.erb",
 		"/Users/zhangc/Projects/cate.is/source/write-better.html.erb",
 		"/Users/zhangc/Projects/cate.is/source/curate-it.html.erb",
@@ -209,8 +228,37 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "source/layouts/layout.erb",
+					"settings":
+					{
+						"buffer_size": 1056,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								947,
+								947
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -265,7 +313,7 @@
 		[
 			[
 				"",
-				"/Users/zhangc/Projects/jina.me/jina.me.sublime-project"
+				"/Users/zhangc/Projects/cate.is-v1.2/cate.sublime-project"
 			]
 		],
 		"width": 380.0
@@ -274,6 +322,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 171.0,
+	"side_bar_width": 375.0,
 	"status_bar_visible": true
 }

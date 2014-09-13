@@ -24,6 +24,11 @@
 #   page "/admin/*"
 # end
 
+# page "/admin/*", :layout => "admin"
+# page "/blog/*", :layout => :article_layout
+
+
+
 # Proxy pages (http://middlemanapp.com/basics/dynamic-pages/)
 # proxy "/this-page-has-no-template.html", "/template-file.html", :locals => {
 #  :which_fake_page => "Rendering a fake page with a local variable" }
