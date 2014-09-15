@@ -18,7 +18,7 @@ h6                { font-size: 0.67em; }
 h4, h5, h6        { text-transform: uppercase; }
 figcaption        { font-family: 'Whitney A', 'Whitney B'; line-height: 1.5em; }
 .dropcap          { width: 60px; height: 56px; text-align: center; font-size: 3.55em; margin-right: 0.1em;
-                    float: left; display:block; position: relative; top: 0.2em; color: #ee6557;}
+                    float: left; display: block; position: relative; top: 0.2em; color: #ee6557;}
 
 
 
@@ -133,7 +133,7 @@ hr {
   clear: both;
   border: 0px;
   height: 1px;
-  diplay: block;
+  display: block;
   width: 33%; 
   background-color: rgb(232, 226, 232);
   margin: 3em 0px 2em 0;
